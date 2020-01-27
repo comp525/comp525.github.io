@@ -11,7 +11,7 @@ permalink: /
 Here you will find all relevant class information to help you become more familiar with this data structures course.
 {: .fs-6 .fw-300 }
 
-[Get started now](/comp525.github.io/docs/syllabus){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on myCourses](https://courses.unh.edu/class/201910/14527){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/data-structures-fundamentals.github.io/docs/syllabus){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on myCourses](https://courses.unh.edu/class/201910/14527){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
