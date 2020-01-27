@@ -30,7 +30,7 @@ Because of the highly collaborative nature of the course, we’ll be using a var
 - **[Class-Linked Tutor and Center for Academic Enrichment](/comp525.github.io/docs/staff/tutors)** (CAE) Tutoring Services
    - This class also has a class-linked tutor who'll be in class to help with all the learning activities. The class-linked tutor and other tutors in the Center for Academic Enrichment (CAE) are well-prepared to assist with questions, lab and homework assignments, and Python programming.
 
-- **[Student Tech Consultants](/comp525.github.io/docs/staff/techs)**
+- **[Student Tech Consultants](/data-structures-fundamentals.github.io/docs/staff/techs)**
    - The Computing  Program in the Department of Applied Engineering and Sciences has student tech consultants who are available to help with software configuration and other technical questions you might have. You’ll find them in the Tech Consultancy Workroom 124. Working hours are displayed on the door.
 
 - **Course Repository**
