@@ -27,7 +27,7 @@ Because of the highly collaborative nature of the course, we’ll be using a var
 - **[Google Drive](https://drive.google.com)** for teaching resources and student learning portfolios
 - **[GitHub](https://github.com)** for maintaining and submitting the codebase of your programming assignments.
    -You will use the GitHub Student Developer Pack at https://education.github.com/pack/join (Links to an external site.) to maintain your GitHub private repositories free of charge.
-- **[Class-Linked Tutor and Center for Academic Enrichment](/comp525.github.io/docs/staff/tutors)** (CAE) Tutoring Services
+- **[Class-Linked Tutor and Center for Academic Enrichment](/data-structures-fundamentals.github.io/docs/staff/tutors)** (CAE) Tutoring Services
    - This class also has a class-linked tutor who'll be in class to help with all the learning activities. The class-linked tutor and other tutors in the Center for Academic Enrichment (CAE) are well-prepared to assist with questions, lab and homework assignments, and Python programming.
 
 - **[Student Tech Consultants](/data-structures-fundamentals.github.io/docs/staff/techs)**
