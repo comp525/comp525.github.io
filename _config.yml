@@ -22,7 +22,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "COMP525 on GitHub":
+  "data-structures-fundamentals on GitHub":
     - "//github.com/data-structures-fundamentals/data-structures-fundamentals.github.io"
 
 # Footer content appears at the bottom of every page's main content
