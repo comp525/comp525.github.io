@@ -12,7 +12,7 @@ nav_order: 3
 
 | Info             | Details |
 | :---             | :---- |
-| Email & Phone    | drc1005@wildcats.unh.edu |
+| Email            | drc1005@wildcats.unh.edu |
 | Room Number           | 124 |
 
 ------
@@ -21,7 +21,7 @@ nav_order: 3
 
 | Info             | Details |
 | :---             | :---- |
-| Email & Phone    | uy1000@wildcats.unh.edu |
+| Email            | uy1000@wildcats.unh.edu |
 | Room Number           | 124 |
 
 ------
@@ -30,7 +30,7 @@ nav_order: 3
 
 | Info             | Details |
 | :---             | :---- |
-| Email & Phone    | rm1226@wildcats.unh.edu |
+| Email            | rm1226@wildcats.unh.edu |
 | Room Number           | 124 |
 
 ------
@@ -39,7 +39,7 @@ nav_order: 3
 
 | Info             | Details |
 | :---             | :---- |
-| Email & Phone    | Jebert@wildcats.unh.edu |
+| Email            | Jebert@wildcats.unh.edu |
 | Room Number           | 124 |
 
 ------
@@ -48,7 +48,7 @@ nav_order: 3
 
 | Info             | Details |
 | :---             | :---- |
-| Email & Phone    | sv1059@wildcats.unh.edu |
+| Email            | sv1059@wildcats.unh.edu |
 | Room Number           | 124 |
 
 ------
@@ -57,7 +57,7 @@ nav_order: 3
 
 | Info             | Details |
 | :---             | :---- |
-| Email & Phone    | vv1020@wildcats.unh.edu |
+| Email            | vv1020@wildcats.unh.edu |
 | Room Number           | 124 |
 
 ------
@@ -66,5 +66,5 @@ nav_order: 3
 
 | Info             | Details |
 | :---             | :---- |
-| Email & Phone    | ssj1006@wildcats.unh.edu |
+| Email            | ssj1006@wildcats.unh.edu |
 | Room Number           | 124 |
