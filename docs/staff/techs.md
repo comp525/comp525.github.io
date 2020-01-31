@@ -26,11 +26,11 @@ nav_order: 3
 
 ------
 
-## - Jared O'Connell
+## - Roopesh Munnaluri
 
 | Info             | Details |
 | :---             | :---- |
-| Email & Phone    | jko1005@wildcats.unh.edu |
+| Email & Phone    | rm1226@wildcats.unh.edu |
 | Room Number           | 124 |
 
 ------
@@ -39,14 +39,32 @@ nav_order: 3
 
 | Info             | Details |
 | :---             | :---- |
-| Email & Phone    | @wildcats.unh.edu |
+| Email & Phone    | Jebert@wildcats.unh.edu |
 | Room Number           | 124 |
 
 ------
 
-## - Max Tedford
+## - Shravani Velpula
 
 | Info             | Details |
 | :---             | :---- |
-| Email & Phone    | mib6@wildcats.unh.edu |
+| Email & Phone    | sv1059@wildcats.unh.edu |
+| Room Number           | 124 |
+
+------
+
+## - Vamshi Krishna Reddy Vuppula
+
+| Info             | Details |
+| :---             | :---- |
+| Email & Phone    | vv1020@wildcats.unh.edu |
+| Room Number           | 124 |
+
+------
+
+## - Snehal Jadhav
+
+| Info             | Details |
+| :---             | :---- |
+| Email & Phone    | ssj1006@wildcats.unh.edu |
 | Room Number           | 124 |
